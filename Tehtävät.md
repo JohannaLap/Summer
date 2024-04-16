@@ -5,6 +5,11 @@ X) TIivistys
 - Tiedostot ja hakemistojen tilat voivat olla joko: modified, staged, commited 
 - Gitin käytössä oleellisimmat komennot ovat: gitt add. && gitt commit ja git pull && git push.
 
+  Varaston tulkinta historia: 
+  
+  
+![varaston tulkinta](https://github.com/JohannaLap/Summer/assets/165195836/bbad00af-d4ad-4b89-b14c-e4878a6092b7)
+
 
 
 
