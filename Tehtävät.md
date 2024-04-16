@@ -1,3 +1,13 @@
+X) TIivistys
+- Git eroaa merkittävästi muista versionhallintajärjestelmistä, siinä mielessä kuinka se käsittelee ja tallentaa dataa. Git käsittelee dataa kuin sarjana kuvakaappuksia pienoistiedostojärjestelmästä.
+- Plussana että lähes kaikki Gitin toiminnot ovat paikallisia, joten ne eivät vaadi ulkoista palvelinta. Tämä antaa joustavuutta ja nopeutta. Git myös varmistaa datan eheyden tarkistamalla kaiken tallennettavan ennen tallennusta.
+- Git myös keskittyy enemmän datan lisäämiseen, kuin sen poistamiseen tai muokkaamiseen. Useimmat toiminnoista lisäävät dataa tietokantaan.
+- Tiedostot ja hakemistojen tilat voivat olla joko: modified, staged, commited 
+- Gitin käytössä oleellisimmat komennot ovat: gitt add. && gitt commit ja git pull && git push.
+
+
+
+
 a) Uusi varasto gihubiissa
 ![new repository](https://github.com/JohannaLap/Summer/assets/165195836/55b83552-d55a-43c7-b540-4a8661106216)
 
