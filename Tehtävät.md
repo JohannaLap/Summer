@@ -16,7 +16,8 @@ X) TIivistys
 a) Uusi varasto gihubiissa
 ![new repository](https://github.com/JohannaLap/Summer/assets/165195836/55b83552-d55a-43c7-b540-4a8661106216)
 
-b) Varaston kloonaus ja muutokset 
+b) Varaston kloonaus ja muutokset.
+
 Ensiksi kloonasin tekemäni uuden varaston, jonne loin sitten touch komennolla uuden teidoston. Tiedoston luonnin jälkeen lisäsin teksiä tiedostoon. 
 
 ![uusi testitiedosto](https://github.com/JohannaLap/Summer/assets/165195836/c9ad28a9-3b00-485e-9737-2e3de02fa280)
@@ -28,14 +29,16 @@ Ensiksi kloonasin tekemäni uuden varaston, jonne loin sitten touch komennolla u
 ![github](https://github.com/JohannaLap/Summer/assets/165195836/e4bc5439-4501-40d4-9904-36bc341acbda)
 
 
-c) Muutoksen teko ilman committia
+c) Muutoksen teko ilman committia.
+
 Avasin tekemäni tekstitiedoston ja tein teksiin muutoksia, jotka sitten peruutin git rest --hard komennolla.
 
 ![muutosten tekeminen](https://github.com/JohannaLap/Summer/assets/165195836/18fabb06-e2ea-4c8a-b08b-04c4adab8674)
 ![muutosten peruutus](https://github.com/JohannaLap/Summer/assets/165195836/a79793d4-b3ba-4534-a8f8-7c0f0b639fa7)
 
 
-d) Nimen ja sähköpostiosoitteen tarkastelu 
+d) Nimen ja sähköpostiosoitteen tarkastelu.
+
 Komennolla git config --global --list komennolla tarkistin, että sähköposti ja nimi näkyvät toivotulla tavalla.
 
 ![git config --global --list](https://github.com/JohannaLap/Summer/assets/165195836/fce2dad9-0b9d-4558-8301-c2bcc5e0e40d)
